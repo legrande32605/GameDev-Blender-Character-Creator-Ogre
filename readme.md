@@ -12,5 +12,23 @@ Following design project to practice scupting
 
 
 ## Results of Course Videos
+### Section - Blocking Out
 - Part 1: Block out the Shape   
 [![Ogre - Block out the Shape](./Renders/Thumb%20-%20Block%20Out.png)](./Renders/Block%20Out.png)
+- Part 2: Subdivision Surface Modifier   
+[![Ogre - Subdivision Surface Modifier](./Renders/Thumb%20-%20Subdivision%20Surface%20Modifier.png)](./Renders/Subdivision%20Surface%20Modifier.png)
+
+
+### Section - Detailed Sculpting
+
+### Section - Retopology
+
+### Section - UV Unwrapping
+
+### Section - Baking
+
+### Section - Painting
+
+### Section - Animation
+
+### Section - Rendering
