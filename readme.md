@@ -17,7 +17,8 @@ Following design project to practice scupting
 [![Ogre - Block out the Shape](./Renders/Thumb%20-%20Block%20Out.png)](./Renders/Block%20Out.png)
 - Part 2: Subdivision Surface Modifier   
 [![Ogre - Subdivision Surface Modifier](./Renders/Thumb%20-%20Subdivision%20Surface%20Modifier.png)](./Renders/Subdivision%20Surface%20Modifier.png)
-
+- Part 3: Sculpting the Blocks   
+[![Ogre - Sculpting the Blocks](./Renders/Thumb%20-%20Sculpting%20the%20Blocks.png)](./Renders/Sculpting%20the%20Blocks.png)
 
 ### Section - Detailed Sculpting
 
