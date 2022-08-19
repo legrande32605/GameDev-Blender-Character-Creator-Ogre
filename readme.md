@@ -21,7 +21,8 @@ Following design project to practice scupting
 [![Ogre - Sculpting the Blocks](./Renders/Thumb%20-%20Sculpting%20the%20Blocks.png)](./Renders/Sculpting%20the%20Blocks.png)
 - Part 4: Dyntopo Sculpting Body 1  
 [![Ogre - Dyntopo Sculpting Body 1](./Renders/Thumb%20-%20Dyntopo%20Sculpting%20Body%201.png)](./Renders/Dyntopo%20Sculpting%20Body%201.png)
-
+- Part 5: Dyntopo Sculpting Body 1  
+[![Ogre - Dyntopo Sculpting Body 2](./Renders/Thumb%20-%20Dyntopo%20Sculpting%20Body%202.png)](./Renders/Dyntopo%20Sculpting%20Body%202.png)
 ### Section - Detailed Sculpting
 
 ### Section - Retopology
