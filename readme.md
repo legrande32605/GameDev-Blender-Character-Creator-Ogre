@@ -25,6 +25,8 @@ Following design project to practice scupting
 [![Ogre - Dyntopo Sculpting Body 2](./Renders/Thumb%20-%20Dyntopo%20Sculpting%20Body%202.png)](./Renders/Dyntopo%20Sculpting%20Body%202.png)
 - Part 6: Sculpting the Head  
 [![Ogre - Sculpting the Head](./Renders/Thumb%20-%20Sculpting%20the%20Head.png)](./Renders/Sculpting%20the%20Head.png)
+- Part 7: Combining Objects  
+[![Ogre - Combining Objects](./Renders/Thumb%20-%20Combining%20Objects.png)](./Renders/Combining%20Objects.png)
 ### Section - Detailed Sculpting
 
 ### Section - Retopology
