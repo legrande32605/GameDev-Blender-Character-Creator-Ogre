@@ -28,6 +28,8 @@ Following design project to practice scupting
 - Part 7: Combining Objects  
 [![Ogre - Combining Objects](./Renders/Thumb%20-%20Combining%20Objects.png)](./Renders/Combining%20Objects.png)
 ### Section - Detailed Sculpting
+- Part 1: Mid Level Details - Body   
+[![Ogre - Mid Level Details - Body](./Renders/Thumb%20-%20Mid%20Level%20Details%20-%20Body.png)](./Renders/Mid%20Level%20Details%20-%20Body.png)
 
 ### Section - Retopology
 
