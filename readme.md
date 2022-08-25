@@ -30,7 +30,8 @@ Following design project to practice scupting
 ### Section - Detailed Sculpting
 - Part 1: Mid Level Details - Body   
 [![Ogre - Mid Level Details - Body](./Renders/Thumb%20-%20Mid%20Level%20Details%20-%20Body.png)](./Renders/Mid%20Level%20Details%20-%20Body.png)
-
+- Part 2: Mid Level Details - Head   
+[![Ogre - Mid Level Details - Head](./Renders/Thumb%20-%20Mid%20Level%20Details%20-%20Head.png)](./Renders/Mid%20Level%20Details%20-%20Head.png)
 ### Section - Retopology
 
 ### Section - UV Unwrapping
