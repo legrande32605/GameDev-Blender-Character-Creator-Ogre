@@ -34,6 +34,9 @@ Following design project to practice scupting
 [![Ogre - Mid Level Details - Head](./Renders/Thumb%20-%20Mid%20Level%20Details%20-%20Head.png)](./Renders/Mid%20Level%20Details%20-%20Head.png)
 - Part 3: Mid Level Details - Horns   
 [![Ogre - Mid Level Details - Horns](./Renders/Thumb%20-%20Mid%20Level%20Details%20-%20Horns.png)](./Renders/Mid%20Level%20Details%20-%20Horns.png)
+- Part 4: Using Alphas   
+[![Ogre - Using Alphas](./Renders/Thumb%20-%20Using%20Alphas.png)](./Renders/Using%20Alphas.png)
+
 ### Section - Retopology
 
 ### Section - UV Unwrapping
